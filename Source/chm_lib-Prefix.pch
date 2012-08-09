@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'chm_lib' target in the 'chm_lib' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
